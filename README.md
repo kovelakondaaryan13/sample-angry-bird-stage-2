@@ -1,2 +1,2 @@
-# sample-angry-bird-stage-2
-cl - 25 
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
